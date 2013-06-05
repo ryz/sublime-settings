@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Git",
+		"hg4subl",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeBlockCursor",
+		"SublimeLinter",
+		"VintageEx"
+	]
+}

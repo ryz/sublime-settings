@@ -1,0 +1,11 @@
+{ 
+	"osx" : { 
+		"cmd": ["/Applications/CoronaSDK/Corona Terminal","main.lua"] 
+	}, 
+	"windows" : { 
+		"cmd": ["C:\\Program Files (x86)\\Corona Labs\\Corona SDK\\Corona Simulator.exe","main.lua"]
+	}, 
+	"file_regex": "^[ ]*File '(...*?)', line ([0-9]*)", 
+	"working_dir": "${project_path:${folder}/src/corona}",
+	"selector": "source.lua" 
+}
