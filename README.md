@@ -10,20 +10,20 @@ Used in conjuction with the [Flatland theme](https://github.com/thinkpixellab/fl
 Go to your Sublime Text 2 Packages directory
 
 Mac OS X
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages`
 
 Windows 8
-   cd %appdata%\Sublime Text 2\Packages
+    `cd %appdata%\Sublime Text 2\Packages`
 
 Then install the required extensions:
 
 Flatland Theme
-    git clone https://github.com/thinkpixellab/flatland.git "Theme - Flatland"
+    `git clone https://github.com/thinkpixellab/flatland.git "Theme - Flatland"`
 
 Package Control
-    git clone https://github.com/wbond/sublime_package_control.git "Package Control"
+    `git clone https://github.com/wbond/sublime_package_control.git "Package Control"`
 
 Clone the user settings repository:
-   git clone https://github.com/ryz/sublime-settings.git "User"
+   `git clone https://github.com/ryz/sublime-settings.git "User"`
 
 done!
